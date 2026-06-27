@@ -18,6 +18,71 @@
   </a>
 </p>
 
+<p align="center">⬇️ &nbsp;<b>Mes projets sont juste en dessous</b> &nbsp;·&nbsp; <b>My projects are right below</b>&nbsp; ⬇️</p>
+
+---
+
+<h2 align="center">🚀 Mes projets · My projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 [TelcoConnect Churn](https://github.com/igorlam00237/telcoconnect-churn)
+Pipeline ML complet pour prédire quels clients vont résilier, avec une **app Streamlit** de scoring en direct.<br>
+*Full ML pipeline predicting customer churn, with a live Streamlit scoring app.*
+
+`Python` · `scikit-learn` · `XGBoost` · `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕐 [Watch Market Pipeline](https://github.com/igorlam00237/watch-market-scraper-pipeline)
+Comparateur de prix multi-sites : scraping → nettoyage → **MySQL** → interface, orchestré sous **Docker**.<br>
+*Multi-site price comparator: scraping → MySQL → web app, dockerized.*
+
+`Scrapy` · `MySQL` · `Flask` · `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Data Jobs Market Dashboard](https://github.com/igorlam00237/powerbi-data-jobs-market-dashboard)
+Le marché de l'emploi **data 2024** décrypté : salaires, postes et tendances dans un dashboard **Power BI**.<br>
+*The 2024 data job market in one interactive Power BI dashboard.*
+
+`Power BI` · `Power Query` · `DAX`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Pipeline Inspection Canalisations](https://github.com/igorlam00237/pipeline-inspection-canalisations)
+Données capteurs d'un robot d'inspection → **détection d'anomalies** + rapport HTML automatique.<br>
+*Inspection-robot sensor data → anomaly detection + auto HTML report.*
+
+`Python` · `pandas` · `Matplotlib`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [AutoHôte](https://github.com/igorlam00237/autohote)
+Automatisation des réponses Airbnb : brouillon généré + **validation humaine**, full stack conteneurisé.<br>
+*Airbnb reply automation with human validation, fully containerized.*
+
+`Python` · `Docker` · `Flask` · `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎯 À propos · About
@@ -98,18 +163,6 @@ ML models to production**.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
-
----
-
-## 📂 Projets phares · Featured projects
-
-| Projet · Project | Domaine · Field | Stack | Lien · Link |
-|---|---|---|---|
-| **TelcoConnect Churn** — prédiction de résiliation client *(end-to-end + app)* | Machine Learning | Python · scikit-learn · XGBoost · Streamlit | [Voir · View](https://github.com/igorlam00237/telcoconnect-churn) |
-| **Watch Market Pipeline** — comparateur de prix multi-sites | Data Engineering | Scrapy · MySQL · Flask · Docker | [Voir · View](https://github.com/igorlam00237/watch-market-scraper-pipeline) |
-| **Data Jobs Market Dashboard** — marché de l'emploi data 2024 | Business Intelligence | Power BI · Power Query · DAX | [Voir · View](https://github.com/igorlam00237/powerbi-data-jobs-market-dashboard) |
-| **Pipeline Inspection Canalisations** — analyse de données capteurs (robot Pathfinder) | Data Analysis | Python · pandas · Matplotlib | [Voir · View](https://github.com/igorlam00237/pipeline-inspection-canalisations) |
-| **AutoHôte** — automatisation de messagerie Airbnb avec validation humaine | Automation · Backend | Python · Docker · Flask · PostgreSQL · Playwright | [Voir · View](https://github.com/igorlam00237/autohote) |
 
 ---
 
