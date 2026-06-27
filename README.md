@@ -69,10 +69,10 @@ Données capteurs d'un robot d'inspection → **détection d'anomalies** + rappo
 <td width="50%" valign="top">
 
 ### 🏠 [AutoHôte](https://github.com/igorlam00237/autohote)
-Automatisation des réponses Airbnb : brouillon généré + **validation humaine**, full stack conteneurisé.<br>
-*Airbnb reply automation with human validation, fully containerized.*
+Cas d'usage **GenAI** : réponses Airbnb générées par **LLM (Claude API)** + **validation humaine**, full stack conteneurisé.<br>
+*GenAI use case: LLM-generated Airbnb replies with human validation, fully containerized.*
 
-`Python` · `Docker` · `Flask` · `PostgreSQL`
+`Python` · `Claude API` · `Flask` · `PostgreSQL` · `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -91,13 +91,15 @@ Automatisation des réponses Airbnb : brouillon généré + **validation humaine
 (ESIGELEC, Bac+5). Je transforme des données brutes en décisions concrètes : de la
 **collecte** (scraping, pipelines ETL) au **nettoyage** et à la **modélisation Machine
 Learning**, jusqu'à la **restitution** (dashboards Power BI, applications Streamlit, API).
-Expérience en **imagerie satellite** et en **mise en production** de modèles ML.
+Expérience en **imagerie satellite**, en **mise en production** de modèles ML et en
+**IA générative** (intégration de LLM via Claude API, développement assisté par IA avec Claude Code).
 
 🇬🇧 **Data Scientist & Data Analyst**, MEng in Big Data & Artificial Intelligence. I turn
 raw data into concrete decisions — from **collection** (scraping, ETL pipelines) to
 **cleaning** and **Machine Learning modelling**, through to **delivery** (Power BI
-dashboards, Streamlit apps, APIs). Experienced with **satellite imagery** and **shipping
-ML models to production**.
+dashboards, Streamlit apps, APIs). Experienced with **satellite imagery**, **shipping
+ML models to production** and **Generative AI** (LLM integration via Claude API, AI-assisted
+development with Claude Code).
 
 ---
 
@@ -105,7 +107,7 @@ ML models to production**.
 
 | Rôle · Role | Contexte · Context | Période |
 |---|---|---|
-| **Développeur Web Freelance** — Hibis Eat (Belgique) | Site e-commerce complet pour une startup agroalimentaire (catalogue, panier, paiement, back-office admin) : cahier des charges, spécifications et **livraison en production en moins de 3 semaines**. | 2026 |
+| **Développeur Web Freelance** — Hibis Eat (Belgique) | Site e-commerce complet pour une startup agroalimentaire (catalogue, panier, paiement, back-office admin), **livré en production en moins de 3 semaines**. Développement **orchestré via l'IA générative (Claude Code)** : spécifications, tests et validation de conformité. | 2026 |
 | **Data Scientist / Data Analyst** — ISAGRI (Spotifarm) | Analyse agricole par imagerie satellite (Sentinel-2, Landsat-8), pipelines ETL, modèles ML en production via FastAPI, détection d'anomalies. → **96 % de précision**, +300 parcelles. | 2024 – 2025 |
 | **Business Analyst** — BDR Group | Transformation des processus RH & paie : ateliers de recueil des besoins, spécifications fonctionnelles, interface métier/IT, coordination d'une équipe de 4 développeurs. | 2024 |
 | **Assistant Analyste — Assurance Qualité Logicielle** — BDR Group | Rédaction de **+50 plans de test**, documentation et priorisation de **200+ anomalies** par impact métier. | 2023 |
@@ -118,10 +120,10 @@ ML models to production**.
 |---|---|---|
 | **Diplôme d'Ingénieur Big Data & Intelligence Artificielle** (Bac+5) | ESIGELEC, Rouen | 2022 – 2025 |
 
-| Certification | Organisme · Provider | Année · Year |
-|---|---|---|
-| **Machine Learning Specialization** | Stanford Online | 2025 |
-| **What is Data Science?** | IBM | 2024 |
+| Certification | Organisme · Provider | Année · Year | Lien · Link |
+|---|---|---|---|
+| **Machine Learning Specialization** | Stanford Online | 2025 | [Voir · View](https://coursera.org/share/137110b08f0718e49738b9bb5484e9c9) |
+| **What is Data Science?** | IBM | 2024 | [Voir · View](https://coursera.org/share/3d4145aa6fe309c3f7ab131cf7d070ba) |
 
 ---
 
@@ -145,6 +147,14 @@ ML models to production**.
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
+
+**GenAI · LLM · IA générative**
+<p>
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Int%C3%A9gration%20LLM-5A45FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square"/>
 </p>
 
 **BI · Data Engineering · DevOps**
