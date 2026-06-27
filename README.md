@@ -105,8 +105,10 @@ ML models to production**.
 
 | Rôle · Role | Contexte · Context | Période |
 |---|---|---|
+| **Développeur Web Freelance** — Hibis Eat (Belgique) | Site e-commerce complet pour une startup agroalimentaire (catalogue, panier, paiement, back-office admin) : cahier des charges, spécifications et **livraison en production en moins de 3 semaines**. | 2026 |
 | **Data Scientist / Data Analyst** — ISAGRI (Spotifarm) | Analyse agricole par imagerie satellite (Sentinel-2, Landsat-8), pipelines ETL, modèles ML en production via FastAPI, détection d'anomalies. → **96 % de précision**, +300 parcelles. | 2024 – 2025 |
-| **Business Analyst** — BDR Group | Modélisation des processus de paie, recueil des besoins métier, rédaction de spécifications fonctionnelles, coordination d'une équipe de 4 développeurs. | 2024 |
+| **Business Analyst** — BDR Group | Transformation des processus RH & paie : ateliers de recueil des besoins, spécifications fonctionnelles, interface métier/IT, coordination d'une équipe de 4 développeurs. | 2024 |
+| **Assistant Analyste — Assurance Qualité Logicielle** — BDR Group | Rédaction de **+50 plans de test**, documentation et priorisation de **200+ anomalies** par impact métier. | 2023 |
 
 ---
 
@@ -162,15 +164,6 @@ ML models to production**.
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 📊 Statistiques GitHub · GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=igorlam00237&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlam00237&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 ---
